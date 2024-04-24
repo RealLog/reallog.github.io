@@ -1,0 +1,159 @@
+
+.textb{
+	color: white;
+}
+.container{
+	background-color:#808080;
+}
+.zagolovok{
+	color: white;
+}
+.zagolovok1{
+	color: white;
+}
+.zagolovok2{
+	color: white;
+}
+.kart-text1{
+	background: #A9A9A9;
+}
+.kart-text2{
+	background: #A9A9A9;
+}
+.kart-text3{
+	background: #A9A9A9;
+}
+.kart-text4{
+	background: #A9A9A9;
+}
+.textforkart1{
+	color: white;
+}
+.textforkart2{
+	color: white;
+}
+.textforkart3{
+	color: white;
+}
+.textforkart4{
+	color: white;
+}
+.tovartext{
+	color: white;
+}
+.tovartext2{
+	color: white;
+}
+.qwe{
+	color: white;
+}
+.kartinkioval{
+	color: white;
+	border-color: white;
+}
+.ishak{
+	color: white;
+}
+.ha4iktext{
+	color: white;
+}
+.search{
+	color: white;
+	border-color: white;
+}
+.ovalforpoisk{
+	color: white;
+	border-color: white;
+}
+.foninlastimage{
+	background: #b6bab6;
+}
+.search2{
+	background: #b6bab6;
+	border-color: white;
+}
+.textforovalinblockpoisk{
+	color: white;
+}
+.dora{
+	color: white;
+}
+.blockinlb2{
+	color: white;
+}
+.logo{
+	width: 220px;
+	height: 27px;
+	background: url(images/logo_negate.png);
+	background-size: cover;
+}
+.lupa{
+	width: 27px;
+	height: 27px;
+	background: url(images/lupa_negate.png);
+	background-size: cover;
+}
+.telega{
+	width: 27px;
+	height: 27px;
+	background: url(images/telega_negate.png);
+	background-size: cover;
+}
+.strelka1{
+	width: 12px;
+	height: 24px;
+	background: url(images/sv2_negate.png);
+	background-size: cover;
+}
+.strelka2{
+	width: 12px;
+	height: 24px;
+	background: url(images/sv_negate.png);
+	background-size: cover;
+}
+.secondblock-text{
+	color: white;
+}
+.background{
+	background: #A9A9A9;
+}
+.oval{
+	border-color: white;
+}
+
+.palki{
+	width: 194px;
+	height: 2px;
+	background: url(images/palka_negate.png);
+	background-size: cover;
+}
+	.otsppalki{
+		margin-left: 65px;
+	}
+.againlogo{
+	width: 170px;
+	height: 21px;
+	background: url(images/logo_negate.png);
+	background-size: cover;
+	поставить белую картинку
+}
+.searchimage{
+	margin: auto 25px auto 10px;
+	background: url(images/lupa_negate.png);
+  background-size: cover;
+  width: 35px;
+  height: 35px;
+}
+.magamed{
+	width: 29px;
+	height: 29px;
+	background: url(images/magamed_negate.png);
+	background-size: cover;
+}
+.foninlastimage{
+	background: #A9A9A9;
+	border-radius: 16px;
+	margin: 2% auto 2% auto;
+	width: 1150px;
+	height: 600px;
+}
